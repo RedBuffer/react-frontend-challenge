@@ -1,0 +1,13 @@
+{
+  "name": "red-buffer-react-frontend-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Red Buffer Recruitment Team",
+  "license": "UNLICENSED",
+  "scripts": {
+    "server": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
